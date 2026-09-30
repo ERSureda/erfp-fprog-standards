@@ -1,0 +1,17 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores e IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporales y logs
+*.tmp
+*.log
+
+# Asegurar explícitamente que los archivos Markdown se incluyan en el repositorio
+!*.md
