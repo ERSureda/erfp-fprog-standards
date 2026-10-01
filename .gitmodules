@@ -1,0 +1,3 @@
+[submodule "presets/erfp-fprog-standards-preset-java-spring-modulith"]
+	path = presets/erfp-fprog-standards-preset-java-spring-modulith
+	url = https://github.com/ERSureda/erfp-fprog-standards-preset-java-spring-modulith
